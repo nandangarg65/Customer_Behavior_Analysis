@@ -118,6 +118,10 @@ The interactive dashboard visualizes:
 - Sales and revenue by age group
 - Filters for gender, category, shipping type, and subscription status
 
+<p align="center">
+  <img src="customer_behavior.png" alt="Power BI Dashboard Preview" width="900">
+</p>
+
 ---
 
 ## 🎯 Strategic Recommendations
